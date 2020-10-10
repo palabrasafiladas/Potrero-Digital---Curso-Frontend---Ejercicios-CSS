@@ -1,0 +1,17 @@
+.red-blue{
+    color: #FF0000;
+    background-color: #0000FF;
+}
+p {
+    font-size: 16px;
+}
+.green{
+    color: #00FF00;
+}
+h2 {
+    font-family: helvetica;
+}
+.italic {
+    font-family: inherit;
+    font-style: italic;
+}

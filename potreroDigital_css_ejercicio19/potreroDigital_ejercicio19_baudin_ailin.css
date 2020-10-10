@@ -1,0 +1,22 @@
+body{
+    background-color:#eff5f5;
+}
+main{
+    display: flex;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #9b9b9b;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: #777;
+    margin-bottom: 30px;
+    font-weight: 600;
+}

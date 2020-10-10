@@ -1,0 +1,92 @@
+body {
+    font-family: 'Epilogue', sans-serif;
+    background-color: #4c4c4c;
+    color: #f4f4f4;
+    margin: 0%;
+}
+
+
+header {
+background-color:#206a5d;
+height: 200px;
+display: flex;
+align-items: center;
+}
+
+ul{
+    font-size: 25px;
+}
+h2{
+    color: #68b0ab;
+    
+}
+
+.logo{
+width: 100px;
+margin-left: 20px;
+}
+
+li{
+  list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #d3d74a;
+    font-weight: bold;
+}
+
+.input {
+    
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+footer{
+    background-color: #005a5f;
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 10px;
+    font-size: .8em;
+    font-weight: bold;
+    color: #d3d74a;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer div{
+    width: 30%;
+}
+iframe {
+    width:30%;
+    height: 80%;
+    border-radius: 10px;
+    /* display:flex;
+    margin-left: 65%; */
+}
+a:hover {
+color: white;
+}
+
+a::after {
+    content: " | ";
+    color:#d3d74a;
+}
+.calculadora {
+    border-radius: 10px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.vision {
+    display: flex;
+    margin: 20px  10px;
+}
+.texto{
+    padding: 0 20px;
+}
+

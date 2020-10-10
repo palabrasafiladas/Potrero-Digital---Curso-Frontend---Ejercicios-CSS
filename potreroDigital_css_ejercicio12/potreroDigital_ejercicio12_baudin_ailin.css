@@ -1,0 +1,21 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: #ffffff;
+    }
+    h1,h2{
+        color: #60b55f;
+    }
+    .potrero{
+        border-radius: 10px;
+    }
+    
+    a{
+     color: #9C27B0;
+     font-size: 20px;
+     text-decoration: none;
+    }
+
+    footer{
+        height: 100px;
+    }
+    
